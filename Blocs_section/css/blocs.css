@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+code {
+    color: #393939;
+    font-family: "Arial-Bold MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    display: block;
+    padding: 24px 15px;
+}  
+  
+section {
+    display: inline-block;
+    width: 30%;
+}
+
+header {
+    height: 64px;
+    color: #393939;
+    font-family: "Arial - Bold MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.colortext {
+    width: 319px;
+    height: 64px;
+    font-family: "Arial - Bold MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #fd58b2;
+}
+
+
+footer {
+    height: 13px;
+    margin: 0 1.5% 24px 1.5%;
+  }
